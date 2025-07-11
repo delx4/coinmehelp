@@ -3,7 +3,7 @@ How to Talk to a Real Person at Coinme Help Center
 ##################
 
 .. meta::
-   :msvalidate.01: ECDBE84ED19B1192A41890640F378D79
+   :msvalidate.01: 6E2E277B57F296985437D2B7A17AF0C9
 
 .. meta::
    :description: Contact eToro customer support at 1.870.406*6577 for help with login, trading, KYC, withdrawals, and wallet issues. Fast, toll-free assistance.
