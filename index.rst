@@ -11,7 +11,7 @@ How to Talk to a Real Person at Coinme Help Center
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="tel:+18582180011" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Connect Me Now</a>
+       <a href="tel:+1-858-218-0011" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Connect Me Now</a>
    </div>
 
 If you’re having issues with your **Coinme Wallet**—whether it’s with crypto transfers, account login, or verification—reaching a live support agent can make all the difference. This guide explains how to get help from the **Coinme support team**, what services they cover, and how to avoid scams.
